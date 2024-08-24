@@ -1,7 +1,7 @@
 # Inventory_Mobile_App
 
 ### Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
-
+The goal of this project is to provide users and administrators with a reliable way to visualize global inventory. Users should be able to create, read, update, and delete inventory items via the mobile application and its adjacent database
 
 ### What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 
